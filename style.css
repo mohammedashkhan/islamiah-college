@@ -1,0 +1,166 @@
+
+	.pic{
+	width:20%;
+	padding: 0;
+	background-color:green;
+	float:left;
+    
+} 
+	
+	.h1{
+		color:#000000;
+		font-size:13px;
+		padding: 0;
+        background-color:green;
+		font-family:armenian;
+		width:80%;
+		height:117px;
+		float:right;
+	}
+
+	  table{
+		  padding-left:300px;
+		  padding-top:100px;
+		  
+	  }
+	  a:hover { 
+    background-color: #515A5A;
+}
+	  #home{
+           height:10px;
+		   width:80px;
+		   border-radius:15px;
+		   margin:3px;
+		   text-align:center;
+		   font-size:20px;
+		   padding-left:50px;
+           padding-right:50px;
+		   padding-top:20px;
+		   padding-bottom:40px;
+		   background-color:#212F3C  ;	  }
+	  
+	  a{
+		  text-decoration:none;
+		  color:#ffffff;
+	  }
+	  #mashal{
+           height:10px;
+		   width:80px;
+		   border-radius:15px;
+		   margin:3px;
+		   padding-left:50px;
+           padding-right:50px;
+		   padding-top:20px;
+		   padding-bottom:40px;
+		   background-color:#212F3C  ;
+	 
+	  }
+	  
+	
+	  #aid{
+		   
+	       height:10px;
+		   width:80px;
+		   border-radius:15px;
+		   margin:3px;
+		   padding-left:50px;
+           padding-right:50px;
+		   padding-top:20px;
+		   padding-bottom:40px;
+		   background-color:#212F3C  ;
+	  }
+     #self{
+      height:10px;
+		   width:80px;
+		   border-radius:15px;
+		   margin:3px;
+		   padding-left:50px;
+           padding-right:50px;
+		   padding-top:20px;
+		   padding-bottom:40px;
+		   background-color:#212F3C  ;
+	 }
+
+	   #res{
+      height:10px;
+		   width:80px;
+		   border-radius:15px;
+		   margin:3px;
+		   font-size:20px;
+		   padding-left:50px;
+           padding-right:50px;
+		   padding-top:20px;
+		   padding-bottom:40px;
+		   background-color:#212F3C  ;
+	 }
+	 #feedback{
+		    height:10px;
+		   width:80px;
+		   margin:3px;
+		   border-radius:50%;
+		   text-align:center;
+		   padding-left:50px;
+           padding-right:50px;
+		   padding-top:30px;
+		   padding-bottom:40px;
+		   margin-left:400px;
+
+		 background-color: #212F3C
+	 }
+
+	 #map{
+		 height:200px;
+		 width:100%;
+		 border:2px solid #3F0C1F;
+	    
+	 }
+	 #footer{
+		   background-color:#105D5D;
+		   text-align:center;
+		   padding-top:30px;
+		    padding-bottom:30px;
+			font-family:italic;
+		   font-size:18px;
+		   margin:10px;
+		   margin-right:0.5px;
+		   margin-left:0.5px;
+
+	 }
+	 #full-screen{
+		 background: url('college.jpg') no-repeat;
+		 background-size:cover;
+		 
+	 }
+	 #map {
+		 background-position:center;
+		 margin-bottom:15px;
+		 position:relative;
+		 border:5px solid #283747;
+
+	 }		 
+	 #map span{
+		 background-color:#536363;
+		 width :100%;
+		 position:absolute;
+		 bottom: 0px;
+		 right: 0;
+		 text-align:center;
+		 text-transform:uppercase;
+		 color:#ffffff;
+		 font-size:1.6em;
+	 }
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
