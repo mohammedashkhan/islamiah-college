@@ -131,6 +131,11 @@
 		 background-size:cover;
 		 
 	 }
+
+	#alignment{
+		align:center;
+		}
+		
 	 #map {
 		 background-position:center;
 		 margin-bottom:15px;
