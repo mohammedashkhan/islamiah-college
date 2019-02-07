@@ -94,9 +94,9 @@
 		   background-color:#212F3C  ;
 	 }
 	 #feedback{
-		    height:15px;
+		   height:15px;
 		   width:80px;
-		   margin:10px;
+		   margin:auto;
 		   border-radius:70%;
 		   text-align:center;
 		   padding-left:70px;
