@@ -34,7 +34,7 @@
 		   border-radius:15px;
 		   margin:13px;
 		   text-align:center;
-		   font-size:20px;
+		   
 		   padding-left:70px;
                    padding-right:70px;
 		   padding-top:20px;
@@ -46,7 +46,7 @@
 		  color:#ffffff;
 	  }
 	  #mashal{
-           height:10px;
+                   height:10px;
 		   width:80px;
 		   border-radius:15px;
 		   margin:13px;
@@ -61,7 +61,7 @@
 	
 	  #aid{
 		   
-	       height:10px;
+	           height:10px;
 		   width:80px;
 		   border-radius:15px;
 		   margin:13px;
@@ -88,7 +88,6 @@
 		   width:80px;
 		   border-radius:15px;
 		   margin:13px;
-		   font-size:20px;
 		   padding-left:70px;
 		   padding-right:70px;
 		   padding-top:20px;
@@ -100,6 +99,7 @@
 		   width:80px;
 		   margin:auto;
 		   border-radius:70%;
+		   font-size:20px;
 		   text-align:center;
 		   padding-left:155px;
         	   padding-right:70px;
