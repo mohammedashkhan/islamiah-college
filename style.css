@@ -134,7 +134,11 @@
 
 	#alignment{
 		align:center;
-		margin-left:60px;
+		margin:auto;
+		
+                 width: 50%;
+                 
+                 padding: 10px
 		
 		}
 		
